@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Django
+media/
+staticfiles/
+
+# Variables de entorno
+.env
+
+# Next.js
+node_modules/
+.next/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
